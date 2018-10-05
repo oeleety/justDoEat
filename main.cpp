@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-char name[770];
+char name[70];
 
 cout<< "Hello world! Have a nice day!\n";
 
