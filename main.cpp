@@ -6,6 +6,8 @@ int main() {
 
 char name[20];
 
+cout<< "Hello world! Have a nice day!\n";
+
 cout << "Enter your name: ";
 
 cin >> name;
